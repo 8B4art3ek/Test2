@@ -99,3 +99,12 @@ th{
     justify-content: center;
     justify-items: center;
 }
+
+input[type="text"] {    
+    background-color: blue;
+    color: white;
+}
+button{
+
+    background-color: orange;
+}

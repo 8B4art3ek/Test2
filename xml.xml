@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dane>
+    <sprzet marka="Meta">
+        <model>Quest 3S</model>
+        <cena>1400</cena>
+        <data_wydania>2024r</data_wydania>
+        <kolor>czarny</kolor>
+    </sprzet>
+
+    <sprzet marka="Sony">
+        <model>Playstation VR2</model>
+        <cena>1900</cena>
+        <data_wydania>2023r</data_wydania>
+        <kolor>bialy</kolor>
+    </sprzet>
+
+    <sprzet marka="Meta">
+        <model>Quest 3</model>
+        <cena>2500</cena>
+        <data_wydania>2023r</data_wydania>
+        <kolor>czarny</kolor>
+    </sprzet>
+
+        <sprzet marka="HTC">
+        <model>Vive pro 2</model>
+        <cena>4000</cena>
+        <data_wydania>2021r</data_wydania>
+        <kolor>czarny</kolor>
+    </sprzet>
+
+
+    
+</dane>

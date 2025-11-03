@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -58,4 +59,17 @@ footer a {
 footer a:hover {
     background-color: blue;
     color: white;
+}
+.headerdata{
+    margin-bottom: 1px;
+}
+table,th,td{
+    border: solid;
+    border-collapse: collapse;
+}
+th{
+    color: white;
+    border-color: black;
+    background-color: black;
+
 }

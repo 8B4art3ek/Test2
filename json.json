@@ -1,0 +1,21 @@
+[
+{
+    "marka": "Meta",
+    "modele": ["Quest3","quest3s"],
+    "sredniacena": 2000,
+    "dostepnosc":true
+},
+{
+    "marka": "Sony",
+    "modele": ["PS_VR2","PS_VR"],
+    "sredniacena": 2500,
+    "dostepnosc":true
+},
+{
+    "marka": "HTC",
+    "modele": ["Vive_Pro2","Vive_Pro"],
+    "sredniacena": 4000,
+    "dostepnosc":true
+}
+
+]

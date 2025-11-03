@@ -1,0 +1,12 @@
+.headerdata{
+    margin-bottom: 1px;
+}
+table,th,td{
+    border: solid;
+    border-collapse: collapse;
+}
+th{
+    color: white;
+    border-color: black;
+    background-color: black;
+}

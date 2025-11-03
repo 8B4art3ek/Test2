@@ -73,3 +73,11 @@ th{
     background-color: black;
 
 }
+input[type="text"] {    
+    background-color: blue;
+    color: white;
+}
+button{
+
+    background-color: orange;
+}

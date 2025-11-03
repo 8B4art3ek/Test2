@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    margin-bottom: 1cm
+}
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1cm;
+}
+.image-gallery img {
+    width: 300px; 
+    height: 300px; 
+    border: 2px solid black; 
+}

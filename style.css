@@ -30,6 +30,7 @@ h1 {
     text-align: center;
     color: green;
     padding-top: 80px;
+    margin-bottom: 1cm;
 }
 
 #tekst {
@@ -58,4 +59,19 @@ footer a {
 footer a:hover {
     background-color: blue;
     color: white;
+}
+
+#autorzy ol li {
+    list-style-type: upper-latin;
+}
+
+#autorzy ol {
+    border: black 3px solid;
+    font-weight: bold;
+    padding: 40px;
+}
+
+#autorzy, #linki {
+    justify-content: center;
+    justify-items: center;
 }
